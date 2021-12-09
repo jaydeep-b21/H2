@@ -2,11 +2,4 @@
 
 ## Sales Insight Data
 
-
-graph LR
-A[Dataset] -- Power Query Editor --> B((Data Extraction))
-A -- Power Query Editor --> C(DATA TRANSFORMATION)
-A-- Power Query Editor --> E(LOADING)
-B --> D{DATA ANALYSIS}
-C --> D
-E --> D
+![image](https://user-images.githubusercontent.com/56892540/145441903-7a5808ff-a0cf-42ca-93a6-cdab3f31ca4b.png)
